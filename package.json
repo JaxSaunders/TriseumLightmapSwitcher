@@ -1,5 +1,5 @@
 {
-  "name": "TriseumLightmapSwitcher",
+  "name": "com.triseum.lightmapswitcher",
   "displayName": "Lightmap Switcher",
   "version": "0.1.0-preview",
   "unity": "2019.1",
